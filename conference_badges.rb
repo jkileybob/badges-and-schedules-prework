@@ -25,13 +25,13 @@ def printer (array1)
 array2 = []
   array1.each do |element|
     array2.push(badge_maker(element))
-  end  
+  end
   counter = 1
   array1.each do |element|
     array2.push("Hello, #{element}! You'll be assigned to room #{counter}!")
     counter += 1
   end
-  
+
   array2.each do |element|
     puts element
   end
