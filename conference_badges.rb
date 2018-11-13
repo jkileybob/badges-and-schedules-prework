@@ -35,3 +35,4 @@ array2 = []
   array2.each do |element|
     puts element
   end
+end
