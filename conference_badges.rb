@@ -22,3 +22,4 @@ def assign_rooms(name_array)
 end
 
 def print()
+end  
