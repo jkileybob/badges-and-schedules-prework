@@ -20,3 +20,5 @@ def assign_rooms(name_array)
   end
   return room_array
 end
+
+def print()
