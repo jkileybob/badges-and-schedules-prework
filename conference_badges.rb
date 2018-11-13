@@ -19,4 +19,4 @@ def assign_rooms(name_array)
     counter += 1
   end
   return room_array
-end    
+end
